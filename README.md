@@ -2,7 +2,7 @@
 
 Sou **bacharel em Direito**, **pós-graduado em Administração e Finanças** e curso **Tecnologia em Inteligência Artificial** na Toledo Prudente. Estou construindo minha carreira na área de **dados**, com foco em **análise e engenharia de dados**.
 
-Trago **mais de 15 anos de experiência no setor financeiro** (Sicredi e Bradesco), incluindo 6 anos como Gerente Geral, com gestão de equipes, acompanhamento de KPIs, crédito, risco e relacionamento com stakeholders. Uno essa visão de negócio à técnica: transformo dados brutos em informação útil para a tomada de decisão, da coleta e tratamento até dashboards e pipelines.
+Trago **cerca de 13 anos de experiência no setor financeiro** (Sicredi e Bradesco), incluindo 6 anos como Gerente Geral, com gestão de equipes, acompanhamento de KPIs, crédito, risco e relacionamento com stakeholders. Uno essa visão de negócio à técnica: transformo dados brutos em informação útil para a tomada de decisão, da coleta e tratamento até dashboards e pipelines.
 
 ## 🛠️ Tecnologias
 
