@@ -1,6 +1,8 @@
 # Olá, eu sou o Diego dos Santos 👋
 
-Estou construindo minha carreira na área de **dados**, com foco em **análise e engenharia de dados**. Gosto de transformar dados brutos em informação útil para a tomada de decisão: da coleta e tratamento até dashboards e pipelines.
+Sou **bacharel em Direito**, com **especialização em Gestão e Finanças**, e hoje construo minha carreira na área de **dados**, com foco em **análise e engenharia de dados**.
+
+Uno a visão de negócio, finanças e conformidade legal à técnica: transformo dados brutos em informação útil para a tomada de decisão, da coleta e tratamento até dashboards e pipelines.
 
 ## 🛠️ Tecnologias
 
@@ -22,6 +24,13 @@ Estou construindo minha carreira na área de **dados**, com foco em **análise e
 | [Implementação de Serviços AWS](https://github.com/diegodossantos001-max/implementacao-servicos-aws-bootcamp-totvs) | Proposta de arquitetura com EC2, S3 e Lambda focada em redução de custos | AWS |
 
 ## 🎓 Formação
+
+**Acadêmica**
+
+- 🎓 Bacharelado em Direito
+- 📈 Especialização em Gestão e Finanças
+
+**Dados e tecnologia**
 
 - ✅ **Bootcamp TOTVS – Fundamentos de Engenharia de Dados e Machine Learning** (DIO, 2026)
 - 📚 Em andamento: **Bootcamp Reclame Aqui – Dados e IA na Prática** (DIO)
