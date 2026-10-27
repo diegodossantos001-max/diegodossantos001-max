@@ -26,3 +26,7 @@ Estou construindo minha carreira na área de **dados**, com foco em **análise e
 - ✅ **Bootcamp TOTVS – Fundamentos de Engenharia de Dados e Machine Learning** (DIO, 2026)
 - 📚 Em andamento: **Bootcamp Reclame Aqui – Dados e IA na Prática** (DIO)
 - 🔜 Próximos: SQL Database Specialist e Power BI Analyst (DIO)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-dos-santos-b9ab32111/)
