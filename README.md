@@ -1,6 +1,6 @@
 # Olá, eu sou o Diego dos Santos 👋
 
-Sou **bacharel em Direito**, com **especialização em Gestão e Finanças**, e hoje construo minha carreira na área de **dados**, com foco em **análise e engenharia de dados**.
+Sou **bacharel em Direito**, com **especialização em Gestão e Finanças**, e atualmente curso **Inteligência Artificial** na Toledo Prudente. Estou construindo minha carreira na área de **dados**, com foco em **análise e engenharia de dados**.
 
 Uno a visão de negócio, finanças e conformidade legal à técnica: transformo dados brutos em informação útil para a tomada de decisão, da coleta e tratamento até dashboards e pipelines.
 
@@ -27,6 +27,7 @@ Uno a visão de negócio, finanças e conformidade legal à técnica: transformo
 
 **Acadêmica**
 
+- 🤖 Graduação em Inteligência Artificial – Toledo Prudente Centro Universitário *(em andamento, previsão de conclusão: 2028)*
 - 🎓 Bacharelado em Direito
 - 📈 Especialização em Gestão e Finanças
 
